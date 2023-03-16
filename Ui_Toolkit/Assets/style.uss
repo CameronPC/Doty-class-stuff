@@ -1,0 +1,44 @@
+.buttonstyle {
+    height: 147px;
+    width: 352px;
+    background-color: rgb(212, 169, 137);
+    font-size: 50px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.buttonstyle:hover {
+    height: 147px;
+    width: 352px;
+    background-color: rgb(113, 67, 33);
+    font-size: 50px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.buttonstyle:active {
+    height: 147px;
+    width: 352px;
+    background-color: rgb(84, 72, 63);
+    font-size: 50px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
